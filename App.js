@@ -1,7 +1,7 @@
 import LoginScreen from './loginScreen';
 
 export default function App() {
-  //Hola hello!
+  //Hola hola
 
   return (
     <>
